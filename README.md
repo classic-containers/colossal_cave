@@ -28,3 +28,7 @@ $ docker run \
     -e DISPLAY=host.docker.internal:0 \
     classiccontainers/colossal_cave
 ```
+
+## Disclaimer
+
+This project is intended for educational purposes only.
